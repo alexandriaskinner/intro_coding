@@ -1,0 +1,22 @@
+Output of 11status.sh
+
+Mon Nov 18 15:19:54 PST 2024
+user: alexandriaskinner
+home: /Users/alexandriaskinner
+shell: /bin/zsh
+pwd: /Users/alexandriaskinner/Code/intro_coding/unit1
+path: /usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+Darwin Alexandrias-MacBook-Air-3.local 23.0.0 Darwin Kernel Version 23.0.0: Fri Sep 15 14:41:34 PDT 2023; root:xnu-10002.1.13~1/RELEASE_ARM64_T8103 arm64
+Python 3.9.6
+/Users/alexandriaskinner/Code
+/Users/alexandriaskinner/Code/mcb185_homework
+/Users/alexandriaskinner/Code/mcb185_homework/.git
+/Users/alexandriaskinner/Code/intro_coding
+/Users/alexandriaskinner/Code/intro_coding/unit1
+/Users/alexandriaskinner/Code/intro_coding/.git
+/Users/alexandriaskinner/Code/MCB185
+/Users/alexandriaskinner/Code/MCB185/ref
+/Users/alexandriaskinner/Code/MCB185/course
+/Users/alexandriaskinner/Code/MCB185/.git
+/Users/alexandriaskinner/Code/MCB185/data
+/Users/alexandriaskinner/Code/MCB185/src
